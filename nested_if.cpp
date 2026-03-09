@@ -21,3 +21,5 @@ int main()
 
     cout << "Masukkan nilai Bahasa Inggris = ";
     cin >> nilBI;
+    cout << "Masukkan nilai Matemetika = ";
+    cin >> nilMT;
